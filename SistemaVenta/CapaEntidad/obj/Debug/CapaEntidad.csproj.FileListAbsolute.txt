@@ -1,0 +1,6 @@
+C:\Users\Garc Ase Thinkpad\Documents\carpeta de prueba\ModelamientoyAnalisis\SistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Garc Ase Thinkpad\Documents\carpeta de prueba\ModelamientoyAnalisis\SistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Garc Ase Thinkpad\Documents\carpeta de prueba\ModelamientoyAnalisis\SistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Garc Ase Thinkpad\Documents\carpeta de prueba\ModelamientoyAnalisis\SistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Garc Ase Thinkpad\Documents\carpeta de prueba\ModelamientoyAnalisis\SistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Garc Ase Thinkpad\Documents\carpeta de prueba\ModelamientoyAnalisis\SistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.pdb
